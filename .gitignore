@@ -1,0 +1,5 @@
+# Workstation files
+.DS_Store
+
+# App files
+node_modules/
